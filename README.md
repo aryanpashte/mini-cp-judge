@@ -1,5 +1,11 @@
 # Mini CP Judge (C++)
 
+This project simulates a simplified competitive programming judge.
+It automates compilation, execution, and output verification of user programs.
+
+This project simulates a simplified competitive programming judge.
+It automates compilation, execution, and output verification of user programs.
+
 A minimal competitive programming judge implemented in C++.
 It compiles a user-provided source file, runs it with predefined input, captures the output, and compares it against an expected output.
 
@@ -85,7 +91,7 @@ The judge performs:
 3. Execution:
 
    ```
-   ./solution < input.txt > output.txt
+   ./tst < input.txt > output.txt
    ```
 4. Comparison:
 
